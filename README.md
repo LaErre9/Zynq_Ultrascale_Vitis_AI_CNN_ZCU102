@@ -1,1 +1,1 @@
-# Zynq_Ultrascale_Vitis_AI-
+# Zynq_Ultrascale_Vitis_AI
