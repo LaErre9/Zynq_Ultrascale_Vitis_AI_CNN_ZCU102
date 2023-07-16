@@ -1,0 +1,31 @@
+{
+  "param":
+  {
+    "CNN::model.0.weight":[8,6],
+    "CNN::model.0.bias":[8,7],
+    "CNN::model.4.weight":[8,7],
+    "CNN::model.4.bias":[8,6],
+    "CNN::model.8.weight":[8,7],
+    "CNN::model.8.bias":[8,5],
+    "CNN::model.13.weight":[8,7],
+    "CNN::model.13.bias":[8,7],
+    "CNN::model.15.weight":[8,7],
+    "CNN::model.15.bias":[8,8]
+  },
+  "output":
+  {
+    "CNN::input_0":[8,6],
+    "CNN::CNN/Sequential[model]/ReLU[2]/507":[8,6],
+    "CNN::CNN/Sequential[model]/MaxPool2d[3]/input.4":[8,6],
+    "CNN::CNN/Sequential[model]/ReLU[6]/546":[8,6],
+    "CNN::CNN/Sequential[model]/MaxPool2d[7]/input.7":[8,6],
+    "CNN::CNN/Sequential[model]/ReLU[10]/585":[8,5],
+    "CNN::CNN/Sequential[model]/MaxPool2d[11]/599":[8,5],
+    "CNN::CNN/Sequential[model]/ReLU[14]/input":[8,3],
+    "CNN::CNN/Sequential[model]/Linear[15]/611":[8,1]
+  },
+  "input":
+  {
+
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "CNN_zcu102.xmodel",
+    "kernel": [
+        "subgraph_CNN__CNN_Sequential_model__Conv2d_0__input_2"
+    ],
+    "target": "DPUCZDX8G_ISA0_B4096_MAX_BG2"
+}
