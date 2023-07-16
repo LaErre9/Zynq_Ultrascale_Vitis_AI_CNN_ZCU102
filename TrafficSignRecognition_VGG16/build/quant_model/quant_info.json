@@ -1,0 +1,42 @@
+{
+  "param":
+  {
+    "CNN::model.0.weight":[8,7],
+    "CNN::model.0.bias":[8,8],
+    "CNN::model.3.weight":[8,8],
+    "CNN::model.3.bias":[8,8],
+    "CNN::model.6.weight":[8,8],
+    "CNN::model.6.bias":[8,8],
+    "CNN::model.9.weight":[8,9],
+    "CNN::model.9.bias":[8,9],
+    "CNN::model.12.weight":[8,9],
+    "CNN::model.12.bias":[8,9],
+    "CNN::model.16.weight":[8,11],
+    "CNN::model.16.bias":[8,9],
+    "CNN::model.18.weight":[8,12],
+    "CNN::model.18.bias":[8,10],
+    "CNN::model.20.weight":[8,9],
+    "CNN::model.20.bias":[8,7]
+  },
+  "output":
+  {
+    "CNN::input_0":[8,6],
+    "CNN::CNN/Sequential[model]/ReLU[1]/654":[8,5],
+    "CNN::CNN/Sequential[model]/MaxPool2d[2]/input.3":[8,5],
+    "CNN::CNN/Sequential[model]/ReLU[4]/688":[8,4],
+    "CNN::CNN/Sequential[model]/MaxPool2d[5]/input.5":[8,4],
+    "CNN::CNN/Sequential[model]/ReLU[7]/722":[8,4],
+    "CNN::CNN/Sequential[model]/MaxPool2d[8]/input.7":[8,4],
+    "CNN::CNN/Sequential[model]/ReLU[10]/756":[8,3],
+    "CNN::CNN/Sequential[model]/MaxPool2d[11]/input.9":[8,3],
+    "CNN::CNN/Sequential[model]/ReLU[13]/790":[8,3],
+    "CNN::CNN/Sequential[model]/MaxPool2d[14]/804":[8,3],
+    "CNN::CNN/Sequential[model]/ReLU[17]/input.13":[8,4],
+    "CNN::CNN/Sequential[model]/ReLU[19]/input":[8,4],
+    "CNN::CNN/Sequential[model]/Linear[20]/821":[8,1]
+  },
+  "input":
+  {
+
+  }
+}
