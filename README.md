@@ -28,6 +28,8 @@ The dataset used is the Traffic Signs Classification, consisting of over 40 clas
 
 ![Traffic Signs](https://github.com/LaErre9/Zynq_Ultrascale_Vitis_AI/assets/7995055/6030b36b-f1f0-4515-93be-617842074c00)
 
+You can find the complete implementation of the model on **Kaggle** in the [GitHub repository](https://github.com/LaErre9/Zynq_Ultrascale_Vitis_AI/blob/main/traffic_sign_recognition_lenet_vgg16.ipynb), which contains the **notebook** for the project. This serve for save the necessary file **"model.pth"** that will be utilized for the AI Quantizer and AI Compiler
+
 ### Tools and Technologies Used 🛠️
 
 - PyTorch
