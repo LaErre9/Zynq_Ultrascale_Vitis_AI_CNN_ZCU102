@@ -1,6 +1,8 @@
 # Workflow for Executing CNN Networks on Zynq Ultrascale+ with VITIS AI  🚀
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 The rapid advancement of Artificial Intelligence has enabled remarkable achievements in various fields, such as image/video classification, semantic segmentation, object detection/tracking, and other applications applicable in embedded systems. However, the increasing size and complexity of deep learning models required to tackle large-scale image problems demand dedicated hardware acceleration on embedded devices for real-time processing with low latency.
 
