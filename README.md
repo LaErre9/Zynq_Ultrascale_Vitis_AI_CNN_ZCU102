@@ -1,8 +1,13 @@
 # Workflow for Executing CNN Networks on Zynq Ultrascale+ with VITIS AI  🚀
+<div align="center">
 
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](https://github.com/giuseppericcio/Zynq_Ultrascale_Vitis_AI_CNN_ZCU102/blob/main/Configurazione%2C%20installazione%20ed%20esecuzione%20di%20una%20CNN%20sulla%20DPU%20della%20Zynq%20Ultrascale%2B_%20Valutazione%20delle%20prestazioni%20rispetto%20ad%20una%20GPU%20in%20Cloud%20-%20Embedded%20Systems%20wiki.pdf) <br>
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
+[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+</div>
 
 The rapid advancement of Artificial Intelligence has enabled remarkable achievements in various fields, such as image/video classification, semantic segmentation, object detection/tracking, and other applications applicable in embedded systems. However, the increasing size and complexity of deep learning models required to tackle large-scale image problems demand dedicated hardware acceleration on embedded devices for real-time processing with low latency.
 
